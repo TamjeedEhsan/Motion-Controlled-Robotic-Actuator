@@ -4,6 +4,8 @@ A motion-controlled robotic actuator built using an Arduino Uno, MPU-6500 accele
 
 The system detects changes in orientation and translates the sensor's tilt into servo motor movement in real time.
 
+![Motion-Controlled Robotic Actuator Demo](demo.gif)
+
 ## Hardware Components
 
 - Arduino Uno R3
